@@ -1,2 +1,5 @@
+
 # arduino-capteur-temp
-Démonstration acquisition température
+
+Démonstration d'une acquisition de température.
+
